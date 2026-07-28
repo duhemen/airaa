@@ -6,7 +6,7 @@ AIRAA **malaikat digital** dengan arsitektur multi-agen yang canggih.
 
 <div align="center">
   
-  <img src="https://img.icons8.com/fluency/96/000000/guardian-angel.png" width="120" height="120" alt="AIRAA Logo"/>
+  <img src="logo.png" width="120" height="120" alt="AIRAA Logo"/>
   
   # 😇 AIRAA v2.0
   ### **A**rtificial **I**ntelligence **R**ecording **A**ngel **A**gentic
