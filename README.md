@@ -17,7 +17,7 @@ AIRAA **malaikat digital** dengan arsitektur multi-agen yang canggih.
   [![AutoGen](https://img.shields.io/badge/AutoGen-v0.2.0-orange.svg)](https://microsoft.github.io/autogen/)
   [![Ollama](https://img.shields.io/badge/Ollama-v0.5.0-red.svg)](https://ollama.com/)
   
-  > *"Malaikat digital yang melihat, mendengar, dan berpikir bersama"*
+  *"Malaikat digital yang melihat, mendengar, dan berpikir bersama"*
   
 </div>
 
